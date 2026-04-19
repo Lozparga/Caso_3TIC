@@ -1,0 +1,17 @@
+# Número de sensores
+ni=3
+
+# Número base de eventos
+baseEventos=5
+
+# Número de clasificadores
+nc=2
+
+# Número de servidores de consolidación
+ns=2
+
+# Capacidad del buzón de clasificación
+tam1=10
+
+# Capacidad de cada buzón de consolidación
+tam2=5
